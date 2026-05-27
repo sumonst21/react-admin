@@ -41,7 +41,7 @@
     },
     "dependencies": {
         "localforage": "^1.7.1",
-        "lodash": "~4.17.5",
+        "lodash": "~4.18.1",
         "ra-data-fakerest": "^4.7.0"
     },
     "devDependencies": {
